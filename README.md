@@ -1,5 +1,6 @@
 # Vtuber-Live-using-visual-script
 
+以下為課程的部分，但我有改寫，沒有用Visual Scripting的方式，但應該變得比較簡單且直觀（功能綁在按鈕上，只多寫了幾行程式）
 
 # 模擬Vtuber直播場景(抖內、跳舞)使用視覺化編程
 
